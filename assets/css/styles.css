@@ -1,0 +1,45 @@
+body {
+        font-family: 'Roboto', sans-serif;
+}
+
+.line-clamp-1 {
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+}
+
+.line-clamp-2 {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+}
+
+.line-clamp-3 {
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+}
+
+/* Ocultar barra de desplazamiento pero permitir scroll */
+.no-scrollbar::-webkit-scrollbar {
+        display: none;
+}
+
+.no-scrollbar {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+}
+
+.view-section {
+        display: none;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+}
+
+.view-section.active {
+        display: block;
+        opacity: 1;
+}

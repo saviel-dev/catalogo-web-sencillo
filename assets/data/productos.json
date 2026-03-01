@@ -1,0 +1,229 @@
+[
+    {
+        "plataforma": "Netflix",
+        "categoria": "Películas y Series",
+        "icono": "netflix-logo.png",
+        "esExtra": true,
+        "planes": [
+            {
+                "tipo": "Perfil",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": null,
+                "agotado": false
+            },
+            {
+                "tipo": "Cuenta Completa",
+                "duracion": "1 Mes",
+                "pantallas": 4,
+                "precioBs": null,
+                "agotado": false
+            }
+        ]
+    },
+    {
+        "plataforma": "Prime Video",
+        "categoria": "Películas y Series",
+        "icono": "prime-logo.png",
+        "esExtra": false,
+        "planes": [
+            {
+                "tipo": "Perfil",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 500.00,
+                "agotado": false
+            },
+            {
+                "tipo": "Cuenta Completa",
+                "duracion": "1 Mes",
+                "pantallas": 5,
+                "precioBs": 1750.00,
+                "agotado": false
+            },
+            {
+                "tipo": "Cuenta Completa",
+                "duracion": "3 Meses",
+                "pantallas": 5,
+                "precioBs": 2250.00,
+                "agotado": false
+            }
+        ]
+    },
+    {
+        "plataforma": "Max",
+        "categoria": "Películas y Series",
+        "icono": "max-logo.png",
+        "esExtra": false,
+        "planes": [
+            {
+                "tipo": "Perfil",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 750.00,
+                "agotado": false
+            },
+            {
+                "tipo": "Cuenta Completa",
+                "duracion": "1 Mes",
+                "pantallas": 4,
+                "precioBs": 1750.00,
+                "agotado": true
+            }
+        ]
+    },
+    {
+        "plataforma": "Disney+",
+        "categoria": "Películas y Series",
+        "icono": "disney-logo.png",
+        "esExtra": false,
+        "planes": [
+            {
+                "tipo": "Perfil Estándar",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 1750.00,
+                "agotado": true
+            },
+            {
+                "tipo": "Perfil Premium",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 2250.00,
+                "agotado": true
+            },
+            {
+                "tipo": "Cuenta Completa Premium",
+                "duracion": "1 Mes",
+                "pantallas": 7,
+                "precioBs": 5450.00,
+                "agotado": true
+            }
+        ]
+    },
+    {
+        "plataforma": "Tele Latino",
+        "categoria": "Televisión en Vivo",
+        "icono": "telelatino-logo.png",
+        "esExtra": false,
+        "planes": [
+            {
+                "tipo": "Perfil",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 1200.00,
+                "agotado": false
+            },
+            {
+                "tipo": "Cuenta Completa",
+                "duracion": "1 Mes",
+                "pantallas": 4,
+                "precioBs": 2000.00,
+                "agotado": false
+            },
+            {
+                "tipo": "Cuenta Completa",
+                "duracion": "12 Meses",
+                "pantallas": 4,
+                "precioBs": 17500.00,
+                "agotado": false
+            }
+        ]
+    },
+    {
+        "plataforma": "Flujo TV",
+        "categoria": "Televisión en Vivo",
+        "icono": "flujotv-logo.png",
+        "esExtra": false,
+        "planes": [
+            {
+                "tipo": "Perfil",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 1250.00,
+                "agotado": false
+            },
+            {
+                "tipo": "Cuenta Completa",
+                "duracion": "1 Mes",
+                "pantallas": 3,
+                "precioBs": 2150.00,
+                "agotado": false
+            }
+        ]
+    },
+    {
+        "plataforma": "Crunchyroll",
+        "categoria": "Anime",
+        "icono": "crunchyroll-logo.png",
+        "esExtra": false,
+        "planes": [
+            {
+                "tipo": "Perfil",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 1000.00,
+                "agotado": true
+            },
+            {
+                "tipo": "Cuenta Completa",
+                "duracion": "1 Mes",
+                "pantallas": 5,
+                "precioBs": 2250.00,
+                "agotado": false
+            }
+        ]
+    },
+    {
+        "plataforma": "Vix",
+        "categoria": "Películas y Series",
+        "icono": "vix-logo.png",
+        "esExtra": false,
+        "planes": [
+            {
+                "tipo": "Perfil",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 500.00,
+                "agotado": false
+            },
+            {
+                "tipo": "Cuenta Completa",
+                "duracion": "1 Mes",
+                "pantallas": 5,
+                "precioBs": 1500.00,
+                "agotado": false
+            }
+        ]
+    },
+    {
+        "plataforma": "Spotify",
+        "categoria": "Música y Podcasts",
+        "icono": "spotify-logo.png",
+        "esExtra": false,
+        "planes": [
+            {
+                "tipo": "Cuenta Individual",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 4435.00,
+                "agotado": true
+            }
+        ]
+    },
+    {
+        "plataforma": "YouTube Premium",
+        "categoria": "Entretenimiento Total",
+        "icono": "youtube-logo.png",
+        "esExtra": false,
+        "planes": [
+            {
+                "tipo": "Cuenta Individual",
+                "duracion": "1 Mes",
+                "pantallas": 1,
+                "precioBs": 3330.00,
+                "agotado": false
+            }
+        ]
+    }
+]
